@@ -1,0 +1,52 @@
+INICIO
+
+Leer promedio
+Leer porcentajeAsistencia
+Leer cursosDesaprobados
+Leer nivelAnsiedad
+Leer participaExtra
+Leer reportesDisciplina
+Leer horasEstudio
+Leer accesoInternet
+Leer motivacion
+Leer horasRedes
+
+SI 	promedio >= 17 Y 
+	porcentajeAsistencia >= 90 Y 
+	cursosDesaprobados = 0 Y 
+	nivelAnsiedad <= 2 Y 
+	reportesDisciplina = 0 Y 
+	participaExtra = "sí" Y 
+	motivacion >= 4 Y 
+	horasEstudio >= 10 Y 
+	horasRedes <= 2 Y 
+	accesoInternet = "sí" 
+ENTONCES
+    imprimir = perfil: "Candidato a mención honorífica"
+SINO SI promedio >= 13 Y 
+	promedio < 17 Y 
+	porcentajeAsistencia >= 80 Y 
+	cursosDesaprobados <= 1 Y 
+	nivelAnsiedad <= 3 Y 
+	reportesDisciplina <= 1 Y 
+	motivacion >= 3 Y 
+	horasEstudio >= 7 Y 
+	horasRedes <= 4 
+ENTONCES
+    imprimir = perfil: "Estudiante equilibrado"
+SINO SI promedio >= 11 Y 
+	promedio < 13 Y 
+	porcentajeAsistencia >= 60 Y 
+	cursosDesaprobados <= 2 Y 
+	nivelAnsiedad <= 4 Y 
+	reportesDisciplina <= 2 Y 
+	motivacion >= 2 Y 
+	horasEstudio >= 3 Y 
+	horasRedes <= 6 
+ENTONCES
+    imprimir = perfil: "Estudiante con riesgo medio"
+SINO
+    imprimir = perfil: "Estudiante en situación crítica"
+FIN SI
+
+FIN

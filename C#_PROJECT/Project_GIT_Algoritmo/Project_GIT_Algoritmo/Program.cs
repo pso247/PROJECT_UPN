@@ -10,6 +10,7 @@ namespace Project_GIT_Algoritmo
     {
         static void Main(string[] args)
         {
+            int a = 0;
         }
     }
 }
