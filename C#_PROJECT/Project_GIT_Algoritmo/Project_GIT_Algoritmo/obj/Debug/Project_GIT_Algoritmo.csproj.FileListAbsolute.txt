@@ -1,0 +1,7 @@
+C:\Users\paul.silva\Documents\PROJECT UPN\PROJECT_UPN\C#_PROJECT\Project_GIT_Algoritmo\Project_GIT_Algoritmo\obj\Debug\Project_GIT_Algoritmo.csproj.AssemblyReference.cache
+C:\Users\paul.silva\Documents\PROJECT UPN\PROJECT_UPN\C#_PROJECT\Project_GIT_Algoritmo\Project_GIT_Algoritmo\obj\Debug\Project_GIT_Algoritmo.csproj.CoreCompileInputs.cache
+C:\Users\paul.silva\Documents\PROJECT UPN\PROJECT_UPN\C#_PROJECT\Project_GIT_Algoritmo\Project_GIT_Algoritmo\bin\Debug\Project_GIT_Algoritmo.exe.config
+C:\Users\paul.silva\Documents\PROJECT UPN\PROJECT_UPN\C#_PROJECT\Project_GIT_Algoritmo\Project_GIT_Algoritmo\bin\Debug\Project_GIT_Algoritmo.exe
+C:\Users\paul.silva\Documents\PROJECT UPN\PROJECT_UPN\C#_PROJECT\Project_GIT_Algoritmo\Project_GIT_Algoritmo\bin\Debug\Project_GIT_Algoritmo.pdb
+C:\Users\paul.silva\Documents\PROJECT UPN\PROJECT_UPN\C#_PROJECT\Project_GIT_Algoritmo\Project_GIT_Algoritmo\obj\Debug\Project_GIT_Algoritmo.exe
+C:\Users\paul.silva\Documents\PROJECT UPN\PROJECT_UPN\C#_PROJECT\Project_GIT_Algoritmo\Project_GIT_Algoritmo\obj\Debug\Project_GIT_Algoritmo.pdb
